@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "hX5kWDyG+Zt3UuBpF14h8CnwGMpYkYDxj3Zu1U9J4j5mwuAJOiMxfjo8/mP8X1e+Gpof2nwo7M5ljR+RENUKxg==",
+  "success": true,
+  "projectFilePath": "/media/marked01one/Linux/code/projects/suas-chat-bot/Backend/ChatAPI/ChatAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/marked01one/.nuget/packages/microsoft.aspnetcore.openapi/7.0.15/microsoft.aspnetcore.openapi.7.0.15.nupkg.sha512",
+    "/home/marked01one/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/marked01one/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/marked01one/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/marked01one/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/marked01one/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/marked01one/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
